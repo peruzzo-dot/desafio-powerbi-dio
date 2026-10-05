@@ -19,7 +19,7 @@ Construir um dashboard interativo e estilizado em **Dark Mode** (tema escuro) de
   - Filtro por intervalo de datas (*Date*).
   - Caixa de seleção por país (*Country*).
 
-![Página 1 - Dashboard Gerencial](pagina1_dashboard.png)
+<img src="pagina1_dashboard.png?v=2" width="100%">
 
 ---
 
@@ -27,7 +27,7 @@ Construir um dashboard interativo e estilizado em **Dark Mode** (tema escuro) de
 - **Gráfico de Pizza**: Distribuição percentual de vendas por produto (*Soma de Sales por Product*).
 - **Gráfico de Barras Horizontais**: Comparativo de lucro por país (*Soma de Profit por Country*).
 
-![Página 2 - Detalhamento](pagina2_detalhes.png)
+<img src="pagina2_detalhes.png?v=2" width="100%">
 
 ---
 
